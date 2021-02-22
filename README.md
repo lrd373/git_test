@@ -1,0 +1,1 @@
+This is Lauren's first git project (with the Odin Project)!
